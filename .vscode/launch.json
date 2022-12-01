@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Run",
+            "console": "internalConsole",
+            "request": "launch",
+            "mainClass": "Run",
+            "env": {
+                "LOG_LEVEL":"FINE"
+            },
+            "projectName": "running-interface"
+        }
+    ]
+}

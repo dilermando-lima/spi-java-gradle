@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "files.exclude": {
+        ".gradle":true,
+        "**/bin/":true,
+        "**/build/":true,
+    }
+}
